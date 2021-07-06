@@ -1,2 +1,2 @@
 # pfc_g5
-Projeto Final de Curso | UMC | Carlos, Leonardo, Pedro |
+Escopo inicial do PFC - 6º Semestre| UMC | Carlos, Leonardo, Pedro |
